@@ -2639,7 +2639,7 @@
 
 <http://id.loc.gov/vocabulary/relators/rpt>
     <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Reporter"@en ;
-    <http://www.loc.gov/mads/rdf/v1#code> "rpt" ;
+    <http://www.loc.gov/mads/rdf/v1#code> "rptt" ;
     <http://www.loc.gov/mads/rdf/v1#definitionNote> "A person or organization who writes or presents reports of news or current events on air or in print" ;
     <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/relators/collection_BIBFRAMEWork> ;
     <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/relators> ;
